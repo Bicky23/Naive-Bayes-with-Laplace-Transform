@@ -1,1 +1,3 @@
-# Naive-Bayes-with-Laplace-Transform
+# Naive Bayes with Laplace transform
+
+An implementation of Naive Bayes with Laplace transformation (`alpha` = 1). 
